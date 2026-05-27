@@ -1,0 +1,28 @@
+# Dependencies
+server/node_modules/
+app/.dart_tool/
+app/.packages
+app/build/
+
+# Database
+server/campus.db*
+
+# WeChat bot (not part of app project)
+wechat_bot.py
+
+# Downloaded videos
+bilibili_videos/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Flutter
+app/.flutter-plugins
+app/.flutter-plugins-dependencies
